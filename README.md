@@ -19,3 +19,9 @@ The dataset encompasses various variables including flight routes (origin and de
 
 ## Power BI Visualisation
 ![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/final_project.JPG)
+
+![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/airline_list.JPG)
+
+![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/arrival_departure.JPG)
+
+![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/delay_reason.JPG)
