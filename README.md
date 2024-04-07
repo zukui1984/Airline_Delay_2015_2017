@@ -11,11 +11,19 @@ The dataset encompasses various variables including flight routes (origin and de
 4. Are there any patterns or trends in flight delays and cancellations over time?
 5. How do different air carriers compare in terms of delays and cancellations?
 
-## Possible Findings from the Analysis
-1. Trends: When flights are usually late or cancelled
-2. Patterns: Which flight routes often have problems
-3. Comparisons: Compare airlines to see who is often late or on time
-4. Reasons: Can explain why flights get delayed or cancelled
+## Facts Findings from the Analysis
+1.	Delay is happening mostly July & August
+2.	Afternoon time (Arrival) + Morning (Departure)
+3.	Friday + Thursday are mostly happen
+4.	Late Aircraft / Carrer / Security: June, July + August
+
+
+## Improvement Suggestions
+1.	Hiring more staff especially during those peak months to minimize time as much as possible.
+2.	Training current staff is also another suggestion for better. Eg security check can be quicker.
+3.	Should improve weather forecast predictions by using new software – just in case they aren’t still updating their systems.
+4.	Improve the infrastructure surrounding LAX airport by upgrading some facilities or maybe get more taxi services just in case a long delay happens.
+5.	During delay waiting, they can provide them a service as an apology 
 
 ## Power BI Visualisation
 ![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/final_project.JPG)
