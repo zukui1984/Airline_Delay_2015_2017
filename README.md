@@ -1,7 +1,7 @@
-# US Domestic Flight Cancellations focus. Los Angeles Airport (LAX) Analysis (2015-2017)
+# US Domestic Flight Cancellations Analysis (2015-2017)
 This dataset comprises information on flight delays and cancellations spanning from *January 2015 to December 2017*. The [dataset](https://www.kaggle.com/datasets/gabrielluizone/us-domestic-flights-delay-prediction-2013-2018) from Kaggle was sourced from the U.S. Department of Transportation's (DOT) On-Time Reporting Carrier On-Time Performance, a comprehensive database tracking the punctuality of domestic flights by major carriers since 1987 (www.transtats.bts.gov)
 
-## Data Overview
+## Data Overview focusing Los Angeles Airport (LAX)
 The dataset encompasses various variables including flight routes (origin and destination), event timestamps (in minutes, local time), and reasons/attributions for delays and cancellations, albeit with some limitations.
 
 ## Questions for Analysis
