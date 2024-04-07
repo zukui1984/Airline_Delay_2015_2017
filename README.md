@@ -16,3 +16,6 @@ The dataset encompasses various variables including flight routes (origin and de
 2. Patterns: Which flight routes often have problems
 3. Comparisons: Compare airlines to see who is often late or on time
 4. Reasons: Can explain why flights get delayed or cancelled
+
+## Power BI Visualisation
+![Image](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/images/final_project.JPG)
