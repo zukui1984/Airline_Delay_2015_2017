@@ -1,5 +1,5 @@
 # US Domestic Flight Cancellations Analysis (2015-2017)
-This dataset comprises information on flight delays and cancellations spanning from *January 2015 to December 2017*. The [dataset](https://www.kaggle.com/datasets/gabrielluizone/us-domestic-flights-delay-prediction-2013-2018) from Kaggle was sourced from the U.S. Department of Transportation's (DOT) On-Time Reporting Carrier On-Time Performance, a comprehensive database tracking the punctuality of domestic flights by major carriers since 1987 (www.transtats.bts.gov)
+This dataset comprises information on flight delays and cancellations spanning from *January 2015 to December 2017*. The [dataset](https://www.kaggle.com/datasets/gabrielluizone/us-domestic-flights-delay-prediction-2013-2018) from Kaggle was sourced from the U.S. Department of Transportation's (DOT)
 
 ## Questions
 1. During which months did flight delays peak?
@@ -10,8 +10,11 @@ This dataset comprises information on flight delays and cancellations spanning f
 6. How did the on-time arrival and departure percentages compare?
 
 ## Analysis Process
-
-
+1. Renaming columns in correct way eg. ArrDelay = Arrival Delay
+3. Replacing incorrect value with NaN, 0 (null), or missing letters
+4. Removing unnecessary around 18 columns
+  - `Quarter, Origin State Fips, Origin State Name, Destination State Fips, Destination State Name, Origin Airport World Code, Destination Airport World Code, Departure Delay 15 Min, Arrival Delay 15 Min, Departure Delay Groups, Arrival Delay Groups, Departure Time Block (hour), CRS Elapsed Time, Flights, Distance Group, FirstDepartureTime through Diverted Distance `
+5. DAX calculation - [LINK](https://github.com/zukui1984/Airline_Delay_2015_2017/blob/master/query.sql)
 
 ## Suggestions
 1. Address carrier issues that contribute significantly to delays, such as aircraft maintenance, crew scheduling, and ground operations.
