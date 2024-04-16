@@ -19,10 +19,10 @@ This dataset comprises information on flight delays and cancellations spanning f
 ## Suggestions
 1. Address carrier issues that contribute significantly to delays, such as aircraft maintenance, crew scheduling, and ground operations.
 2. Improve coordination and efficiency within the National Aviation System to reduce air traffic control delays.
-3. Implement strategies to better manage aircraft turnaround times and minimize cascading delays from late arrivals.
-4. Enhance airport infrastructure and operations at major hubs like ATL, ORD, and LAX to improve on-time performance.
-5. Provide additional resources and support to regional carriers to reduce their higher cancellation rates.
-6. Increase staffing and implement contingency plans during peak summer travel periods to mitigate delays.
+3. Implement strategies to better manage aircraft turnaround times and minimize unnecessary delays from late arrivals.
+4. Enhance airport infrastructure and operations at major hubs like ATL (Atlanta), ORD (Orlando), and LAX (Los Angeles) to improve on-time performance.
+5. Provide additional resources eg. customer service and support to regional carriers to reduce their higher cancellation rates.
+6. Increase staffing and plans more organize during peak summer travel periods to avoid big delays.
 
 
 ## Power BI Visualisation
